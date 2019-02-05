@@ -1,3 +1,5 @@
+package java;
+
 /**
  * Created by gouthamvidyapradhan on 13/05/2018.
  * https://www.hackerrank.com/challenges/diwali-lights/problem

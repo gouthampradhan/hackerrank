@@ -1,4 +1,4 @@
-/**
+package java; /**
  * Created by gouthamvidyapradhan on 28/05/2018.
  *
  * https://www.hackerrank.com/challenges/similarpair/problem
